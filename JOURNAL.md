@@ -39,4 +39,4 @@ and it is, as the name suggests, _cheap_. At around 15 bucks for one with a pret
 
 it has capacitive touch (the same thing a phone uses), so it's really nice for a rhythm game.
 
-I then grabbed a bettery and a speaker. I did stumble upon a little worry, when i saw that the draw current for the board seemed to be higher than what my battery could provide, so i looked around, and it turned out to be ok (i am going to double check tmrw tho i dont want my battery destroying everything on me). Now, i have to program the code (hopefully it fits within flash -- i dont want to  mess with sd cards)
+I then grabbed a battery and a speaker. I did stumble upon a little worry, when i saw that the draw current for the board seemed to be higher than what my battery could provide, so i looked around, and it turned out to be ok (i am going to double check tmrw tho i dont want my battery destroying everything on me). Now, i have to program the code (hopefully it fits within flash -- i dont want to  mess with sd cards)
